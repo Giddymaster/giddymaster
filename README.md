@@ -20,14 +20,14 @@ So far we have trained on these skills:
 1. Git and Github
 1. HTML
 1. CSS
-1. Other topics as we move on  
+1. Other topics on the course outline include:  
 -Javascript  
 -Typescript  
 -React  
 -Nodejs  
--Expressjs
--PostgreSQL and MongoDB
--oRM(Prisma)  
+-Expressjs  
+-PostgreSQL and MongoDB  
+-ORM(Prisma)  
 among other discipline.
 
 #### Other Skills
@@ -38,14 +38,14 @@ We also do daily morning meetup introduction, previous day recap and icebreaker 
 - 🏦 **Microfinance Web App** using Angular.  
 I am collaborating with other developers to build these websites: Emira microfinance:  [emiraDelights Microfinance](http://emiradelights.com/).This website under construction.  
 
-- 🗳️ **Election Transparency Web App** This is another upcoming web app for kenya citizenry which targets to eliminate election fraud in general elect by letting grassroot citizens to actively upload Form 34C from all polling station after election . This is a solo project, looking for other developers to implement it.
+- 🗳️ **Election Transparency Web App** This is another upcoming web app for kenya citizenry which targets to eliminate election fraud in general elect by letting grassroot citizens to actively upload Form 34C from all polling station after election . This is a solo project, looking for other developers to improve my schema implement it.
 
 
 🔗 **Repositories**  
 1. [giddymaster](https://github.com/Giddymaster/giddymaster).  
-The read.md file of this repository serve as my main portfolio. 
+The read.md file of this repository is an assignment to showcase the level of my mastery of writing markdown files. 
 1. [Git and Github](https://github.com/Giddymaster/Everyday-Git)  
-I keep my git notes here. The notes are public, visit and learn more about git and hoe to use git commands on cmd.  
+Go to readme.md file to read more about git. The notes will teach you more about git and how to use git commands on cmd/terminal.  
 1. [Dream-vaction destination](https://github.com/Giddymaster/dream-vacation-destinations)  
 This is art of the assignment which was all about creating a website using HTML only.
 1. Other Repositories include: 
