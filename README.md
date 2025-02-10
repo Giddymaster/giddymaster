@@ -3,7 +3,7 @@
 ## About Me
 I'm a **math graduate** with **intermediary IT skills** and a passion for technology, finance, and business. I specialize in:
 
-*Frontend* and *Backend* libraries and frameworks such as react, angular, python, php, javascript, typescript, etc.  
+*Frontend* and *Backend* libraries and frameworks such as react, angular, python, php, javascript, typescript, HTMl&CSS etc.  
 
 <p style="text-align: center;">
   <a href="angular" target="_blank"><img src="./src/images/angular.jpeg" alt="Angular" width="35"></a>
