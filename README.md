@@ -24,7 +24,10 @@ These skills help me in:
 - **Fintech & Microfinance Solutions** creating banking application for banking sector
 
 ## 📈 GitHub Stats
-![Giddymaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giddymaster&show_icons=true&theme=radical)
+![Giddymaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giddymaster&show_icons=true&theme=radical)  
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Giddymaster&theme=onedark)
+
 
 Currently, I'm participating in the **Teach2Give web development training** at Murang'a University of Technology, enhancing my skills in front-end and back-end development.  
 So far we have trained on these skills:
