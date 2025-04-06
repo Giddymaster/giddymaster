@@ -26,9 +26,6 @@ These skills help me in:
 ## 📈 GitHub Stats
 ![Giddymaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giddymaster&show_icons=true&theme=radical)  
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Giddymaster&theme=onedark)
-
-
 Currently, I'm participating in the **Teach2Give web development training** at Murang'a University of Technology, enhancing my skills in front-end and back-end development.  
 So far we have trained on these skills:
 1. Git and Github
@@ -43,16 +40,6 @@ So far we have trained on these skills:
 -PostgreSQL and MongoDB  
 -ORM(Prisma)  
 among other discipline.
-
-#### Other Skills
-We also do daily morning meetup introduction, previous day recap and icebreaker questions to master soft skills and foster community.
-
-
-## 💻 What I'm Working On
-- 🏦 **Microfinance Web App** using Angular.  
-I am collaborating with other developers to build these websites: Emira microfinance:  [emiraDelights Microfinance](http://emiradelights.com/).This website under construction.  
-
-- 🗳️ **Election Transparency Web App** This is another upcoming web app for kenya citizenry which targets to eliminate election fraud in general elect by letting grassroot citizens to actively upload Form 34C from all polling station after election . This is a solo project, looking for other developers to improve my schema implement it.
 
 
 🔗 **Repositories**  
